@@ -1,4 +1,5 @@
 ## Mục đích bài toán
+
 ### Hiểu rõ hơn về nhóm khách hàng:
 #### - Phân cụm (Clustering): Phân cụm giúp nhóm các khách hàng có xu hướng tương tự về hành vi sử dụng dịch vụ khách sạn. Điều này giúp doanh nghiệp hiểu rõ hơn về nhu cầu và mong muốn của từng nhóm khách hàng cụ thể.
 #### - Phân loại (Classification): Dữ liệu phân loại giúp xác định loại khách hàng nào có thể có sự tương tác tốt nhất với các loại dịch vụ cụ thể. Ví dụ, có thể phân loại khách hàng là gia đình, doanh nhân, du khách độc thân, v.v.
