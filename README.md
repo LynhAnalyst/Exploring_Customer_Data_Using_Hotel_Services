@@ -1,13 +1,10 @@
-## Mục đích bài toán
-
-### Hiểu rõ hơn về nhóm khách hàng:
-#### - Phân cụm (Clustering): Phân cụm giúp nhóm các khách hàng có xu hướng tương tự về hành vi sử dụng dịch vụ khách sạn. Điều này giúp doanh nghiệp hiểu rõ hơn về nhu cầu và mong muốn của từng nhóm khách hàng cụ thể.
-#### - Phân loại (Classification): Dữ liệu phân loại giúp xác định loại khách hàng nào có thể có sự tương tác tốt nhất với các loại dịch vụ cụ thể. Ví dụ, có thể phân loại khách hàng là gia đình, doanh nhân, du khách độc thân, v.v.
-
-### Tối ưu hóa dịch vụ và tiện nghi:
-#### - Phân cụm: Doanh nghiệp có thể tối ưu hóa trải nghiệm khách hàng bằng cách tùy chỉnh dịch vụ và tiện nghi dựa trên các đặc điểm chung của từng nhóm khách hàng.
-#### - Phân loại: Xác định loại phòng, gói dịch vụ và các tiện ích phù hợp cho từng nhóm khách hàng sẽ giúp tăng cường sự hài lòng và trung thành của họ.
-
-### Dự đoán xu hướng và thị trường:
-#### - Phân cụm: Phân loại khách hàng thành các nhóm dựa trên hành vi sử dụng dịch vụ có thể giúp dự đoán xu hướng tương lai và thị trường tiềm năng.
-#### - Phân loại: Điều này có thể hỗ trợ trong việc đưa ra dự đoán về sự phát triển của các loại dịch vụ cụ thể và định hình chiến lược kinh doanh.
+### Purpose of the problem
+####Understand more about customer groups:
+#####- Clustering helps group customers with similar trends in hotel service usage behavior. This helps businesses better understand the needs and desires of each specific customer group.
+####- Classification data helps determine which types of customers may have the best interaction with specific types of services. For example, customers can be classified as families, businessmen, solo travelers, etc.
+####Optimize services and amenities:
+####- Businesses can optimize customer experience by customizing services and amenities based on the common characteristics of each customer group.
+####- Determining the right room type, service package and amenities for each customer group will help increase their satisfaction and loyalty.
+####Predict trends and markets:
+####- Classifying customers into groups based on service usage behavior can help predict future trends and potential markets.
+####- This can assist in making predictions about the development of specific service types and shaping business strategies.
